@@ -1,0 +1,465 @@
+1531641155026	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531641155042	geckodriver	INFO	Listening on 127.0.0.1:55423
+1531641158084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.EyTN1Psl5zgQ"
+1531641170934	Marionette	INFO	Listening on port 55431
+1531641171042	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531641221009	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531641365979	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531641366010	geckodriver	INFO	Listening on 127.0.0.1:55555
+1531641369099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.msvTWB7NcYZk"
+1531641380155	Marionette	INFO	Listening on port 55563
+1531641381109	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+[Child 4168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531641696874	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531641696905	geckodriver	INFO	Listening on 127.0.0.1:55686
+1531641699994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.7blSiBxW4YBX"
+1531641712499	Marionette	INFO	Listening on port 55694
+1531641712982	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 5344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2092, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 4316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531641874676	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531641874707	geckodriver	INFO	Listening on 127.0.0.1:55751
+1531641877796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.9jSSJy1aRMzo"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1531641890686	Marionette	INFO	Listening on port 55759
+1531641890832	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531642524855	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531642524870	geckodriver	INFO	Listening on 127.0.0.1:55915
+1531642527944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.4MTm0IpyU3Nz"
+1531642540080	Marionette	INFO	Listening on port 55923
+1531642540345	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531642589759	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531642589790	geckodriver	INFO	Listening on 127.0.0.1:56049
+1531642592848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Rt2lLHf20X0r"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1531642605941	Marionette	INFO	Listening on port 56057
+1531642607879	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531644711846	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531644711877	geckodriver	INFO	Listening on 127.0.0.1:56589
+1531644714966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Wjt9CYC8KaLO"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1531644730084	Marionette	INFO	Listening on port 56597
+1531644730221	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531644777116	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531644777147	geckodriver	INFO	Listening on 127.0.0.1:56717
+1531644780205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Q0PyDvHE5iao"
+1531644792547	Marionette	INFO	Listening on port 56725
+1531644792653	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 408: Error: OS.File has been shut down. Rejecting post to stat
+1531645080056	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531645080087	geckodriver	INFO	Listening on 127.0.0.1:56921
+1531645083120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.i7Rhvc9ckfJb"
+1531645095503	Marionette	INFO	Listening on port 56929
+1531645095985	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+[Child 5700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D0095,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+[Child 6108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531645147386	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531645147418	geckodriver	INFO	Listening on 127.0.0.1:57051
+1531645150444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.wXPMSkM2O7jc"
+[Child 4356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1531645167910	Marionette	INFO	Listening on port 57059
+1531645171051	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531645684027	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531645684058	geckodriver	INFO	Listening on 127.0.0.1:57347
+1531645687116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.0iRZa0lBW6Vq"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1531645700973	Marionette	INFO	Listening on port 57355
+1531645703284	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531645762587	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531645762618	geckodriver	INFO	Listening on 127.0.0.1:57473
+1531645765660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.tzaP7ntqnDFk"
+1531645777849	Marionette	INFO	Listening on port 57481
+1531645778037	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531646410000	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531646410015	geckodriver	INFO	Listening on 127.0.0.1:58538
+1531646413073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.U5GuDy9cxpgy"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1531646428286	Marionette	INFO	Listening on port 58546
+1531646428804	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 214: TypeError: this._mm is null
+[Child 5128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531646487829	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531646487861	geckodriver	INFO	Listening on 127.0.0.1:58691
+1531646490903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.2UH1IJWvJdSG"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1531646503867	Marionette	INFO	Listening on port 58699
+1531646505213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531646561327	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 3720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531647563851	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531647563885	geckodriver	INFO	Listening on 127.0.0.1:58909
+1531647566921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.GXvI3YHU0Jpv"
+1531647578557	Marionette	INFO	Listening on port 58917
+1531647579163	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531647631807	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 3388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1531698304523	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531698304554	geckodriver	INFO	Listening on 127.0.0.1:61059
+1531698307596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.KQDpLqslkGnc"
+1531698321821	Marionette	INFO	Listening on port 61067
+1531698322227	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531698380707	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531698380738	geckodriver	INFO	Listening on 127.0.0.1:61179
+1531698383796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ijqORBUNDYCT"
+1531698397177	Marionette	INFO	Listening on port 61187
+1531698397509	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 3096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 2092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531698513898	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531698513930	geckodriver	INFO	Listening on 127.0.0.1:61326
+1531698517003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.CtehIj5fgIE9"
+1531698530589	Marionette	INFO	Listening on port 61334
+1531698532771	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531698577822	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1531698577854	geckodriver	INFO	Listening on 127.0.0.1:61439
+1531698580911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.JhlQrzNdYpGJ"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1531698595375	Marionette	INFO	Listening on port 61447
+1531698595549	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
